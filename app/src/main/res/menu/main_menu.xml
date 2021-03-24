@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/kuntizbe"
+            android:title="Күнтізбе"/>
+        <item
+            android:id="@+id/nav_upai"
+            android:icon="@drawable/upai"
+            android:title="Тазалық ұпайлары"/>
+        <item
+            android:id="@+id/nav_abla"
+            android:icon="@drawable/abla"
+            android:title="Тәрбиешілер" />
+        <item
+            android:id="@+id/nav_bron"
+            android:icon="@drawable/bron"
+            android:title="Бөлмені брондау" />
+        <item
+            android:id="@+id/nav_act"
+            android:icon="@drawable/is"
+            android:title="Іс-шаралар" />
+    </group>
+</menu>
